@@ -1,0 +1,26 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.color-box {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    border: 2px solid #000;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.controls input {
+    width: 100px;
+    margin: 5px auto;
+    text-align: center;
+}
+
+#colorPicker {
+    width: 100px;
+    height: 40px;
+    margin: 10px auto;
+    border: none;
+}
